@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '周润发的在线状态',
+  SiteName: '周润发网站的在线状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -21,11 +21,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
+      text: '主页',
+      url: 'https://uptime.001315.xyz'
+    },    
+    {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip'
+      url: 'https://github.com/shaoyouvip/uptime'
     },
     {
-      text: 'Blog',
+      text: '博客',
       url: 'https://blog.001315.xyz/'
     },
   ],
