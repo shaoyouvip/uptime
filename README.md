@@ -10,7 +10,7 @@
 - 您需要拥有一个网站空间，常见的 Nginx / PHP 等空间即可，甚至是阿里云的 OSS 等纯静态空间也行
 
 ## 如何部署：
-如果这又小白朋友下面看不懂更详细的教程在我的博客 `点击右边前往` [https://github.com/shaoyouvip/uptime/](https://blog.001315.xyz/p/62)
+如果这又小白朋友下面看不懂更详细的教程在我的博客 [ `点击前往`](https://blog.001315.xyz/p/62)
 - star 并 fork 😘
 - 直接使用 Vercel 或者 Cloudflare 直接部署该项目
 - 修改 `config.js` 文件：
