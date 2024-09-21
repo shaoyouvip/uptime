@@ -11,7 +11,8 @@
 
 ## 如何部署：
 
-- 下载并解压缩本项目的文件：[uptime.zip]
+- star 并 fork 😘
+- 直接使用 Vercel 或者 Cloudflare 直接部署该项目
 - 修改 `config.js` 文件：
    - `SiteName`: 要显示的网站名称
    - `ApiKeys`: 从 UptimeRobot 获取的 API Key，支持 Monitor-Specific API Keys 和 Read-Only API Key
