@@ -1,4 +1,4 @@
-# uptime-status
+# uptime
 
 一个基于 UptimeRobot API 的在线状态面板
 
@@ -11,7 +11,7 @@
 
 ## 如何部署：
 
-- 下载并解压缩：[uptime.zip](https://github.com/shaoyouvip/uptime/releases/latest/download/uptime.zip "uptime.zip") 
+- 下载并解压缩本项目的文件：[uptime.zip]
 - 修改 `config.js` 文件：
    - `SiteName`: 要显示的网站名称
    - `ApiKeys`: 从 UptimeRobot 获取的 API Key，支持 Monitor-Specific API Keys 和 Read-Only API Key
@@ -21,3 +21,7 @@
 - 将所有文件上传到网站空间
 
 ⚠️ 如果没有修改代码的需求，您不需要 git clone 本项目，只需要下载 Release 的文件包即可。
+
+## 致谢：
+
+ [uptime-status](https://github.com/yb/uptime-status/ "uptime-status")
