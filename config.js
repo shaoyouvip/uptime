@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '周润发网站的在线状态',
+  SiteName: 'Uptime-status ',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
