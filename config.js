@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: '博客',
-      url: 'https://blog.001315.xyz/'
+      url: 'https://blog.aizrf.COM/'
     },
   ],
 };
